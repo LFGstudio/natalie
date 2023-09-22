@@ -1,0 +1,33 @@
+.rarephenomenonNyc {
+  width: 931px;
+  height: 195px;
+  color: rgb(255, 255, 255);
+  font-size: 62px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 72px;
+}
+.section {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 373px 320px 97px;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  width: auto;
+  height: 937px;
+  top: 0px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  border-bottom-width: 1px;
+  background-color: rgb(96, 26, 186);
+}
+.wwwCreatorsworldIoByHtmlToDesignHeartFreeVersion_04_09_2023_0_12_36CestComponent {
+  position: relative;
+  width: 100%;
+  height: 937px;
+  background-color: rgb(255, 248, 241);
+  font-family: Inter;
+}
